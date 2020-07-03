@@ -1,0 +1,9 @@
+VulkanApp
+
+*.o
+
+.vscode
+
+OLD_(C_versions)
+
+example.cpp
